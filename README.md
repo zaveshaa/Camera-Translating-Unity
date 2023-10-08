@@ -1,6 +1,6 @@
 # Camera-Translating-Unity
 =======================
-``` с#
+```c#
 using UnityEngine;
 
 public class CameraRetransmissio : MonoBehaviour
